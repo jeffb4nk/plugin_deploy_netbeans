@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.totalnet.bootstrap
+OpenIDE-Module-Name: TotalNet Bootstrap
+OpenIDE-Module-Specification-Version: 3.2
+OpenIDE-Module-Long-Description: Montaje automatico del proyecto TotalNet: clonar, elegir rama, configurar entorno y compilar.
+OpenIDE-Module-Layer: org/totalnet/bootstrap/layer.xml
+OpenIDE-Module-Java-Dependencies: Java > 17

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="org.totalnet.bootstrap-impl" basedir="..">
+    <property file="nbproject/private/platform-private.properties"/>
+    <property file="nbproject/platform.properties"/>
+    <property name="harness.dir" value="${nbplatform.default.harness.dir}"/>
+    <property name="netbeans.dest.dir" value="${nbplatform.default.netbeans.dest.dir}"/>
+    <import file="${harness.dir}/build.xml"/>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Tools">
+            <file name="org-totalnet-bootstrap-MountProjectAction.instance">
+                <attr name="instanceClass" stringvalue="org.totalnet.bootstrap.action.MountProjectAction"/>
+                <attr name="position" intvalue="1100"/>
+            </file>
+            <file name="org-totalnet-bootstrap-EditEnvironmentAction.instance">
+                <attr name="instanceClass" stringvalue="org.totalnet.bootstrap.action.EditEnvironmentAction"/>
+                <attr name="position" intvalue="1101"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
