@@ -211,7 +211,7 @@ Si el error es `objConexion is null`, la conexión falló; casi siempre es nombr
 ### Aparece una ventana pidiendo clave SSH
 
 El plugin ejecuta `git`, y SSH pide la passphrase de tu llave. Solución:
-
+o puedes usar un token de acceso
 ```bash
 ssh-add ~/.ssh/id_rsa
 ssh -T git@github.com   # o gitlab.com
